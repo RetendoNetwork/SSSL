@@ -1,7 +1,7 @@
 /* 
   -- Start Credits --
   Thanks Pretendo for original SSSL.
-  Retendo updated the SSSL for add Custom Miiverse Disocvery.
+  Retendo updated the SSSL for add Custom Miiverse Discovery.
   -- End Credits --
 */
 
