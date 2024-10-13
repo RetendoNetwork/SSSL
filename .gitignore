@@ -1,0 +1,6 @@
+.vscode
+CACERT_NINTENDO_CA.der
+CACERT_NINTENDO_CA_G2.der
+CACERT_NINTENDO_CA_G3.der
+package_lock.json
+node_modules
