@@ -6,6 +6,6 @@ RUN --mount=type=bind,source=package.json,target=package.json \
     --mount=type=cache,target=/root/.npm \
     npm ci
 
-COPY index.js .
+COPY sssl.js .
 # Using ENTRYPOINT instead of CMD to allow passing arguments to the script directly
-ENTRYPOINT ["node", "index.js"]
+ENTRYPOINT ["node", "sssl.js"]
