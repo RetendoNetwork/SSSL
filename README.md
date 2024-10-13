@@ -1,11 +1,8 @@
 # SSSL
+- Bypass SSL for the Wii U without hacking.
 
 # How to build
 - Install [git](https://git-scm.com/downloads) & [NodeJS](https://nodejs.org/).
-<<<<<<< HEAD
 - After git clone the repository, `https://github.com/RetendoNetwork/SSSL --recursive`.
-#
-=======
-- 
-#
->>>>>>> 3ceb6185cd2a21d76cbb45f7caddc05eb06940b7
+- Then do ``npm install` for install all packages for SSSL.
+- And do `node sssl` for have all nintendo certificates.
