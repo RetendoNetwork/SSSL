@@ -4,3 +4,9 @@ CACERT_NINTENDO_CA_G2.der
 CACERT_NINTENDO_CA_G3.der
 package_lock.json
 node_modules
+cert-chain.pem
+csr.csr
+forged-ca.pem
+forged-ca-private-key.pem
+ssl-cert.pem
+ssl-cert-private-key.pem
